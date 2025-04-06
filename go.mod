@@ -1,6 +1,6 @@
 module login
 
-go 1.24.2
+go 1.24.0
 
 require (
 	github.com/golang/snappy v0.0.4 // indirect
